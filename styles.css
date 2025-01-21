@@ -1,3 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -15,8 +21,6 @@ header {
 .barra{
     background-color: #2c830a4b;
     margin: 5px;
-    /* border: 5px solid black; */
-    
 }
 
 .barra ul {
@@ -62,17 +66,19 @@ section ul li a {
 
 footer {
     text-align: center;
-    padding: 10px 0;
+    padding: 20px 0;
     background: #0a8a0ab2;
     color: #000000;
+    font-size: 25px;
 }
-
-footer ul {
-    list-style: none;
-    padding: 0;
+footer p {
+    margin-bottom: 20px;
 }
-
-footer ul li {
-    display: inline;
-    margin: 0 10px;
+.redes a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 50px;
+}
+.redes a:hover{
+    color: #030303;
 }
