@@ -105,13 +105,21 @@ h2 {
 .caja1{
     background-image:url(zapatillas/adidas.jpg);
 }
-/* section {
+/* contactanos */
+.contact {
     margin-bottom: 20px;
     background: #2ab10fb2;
     padding: 15px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
-}*/
+}
+.nosotros{
+    margin-bottom: 20px;
+    background: #2ab10fb2;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
 li{
     color: #ffffff;
 }
